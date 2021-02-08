@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fffrankhan.github.io</id>
+    <title>憨sir读史</title>
+    <updated>2021-02-08T01:23:06.901Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fffrankhan.github.io"/>
+    <link rel="self" href="https://fffrankhan.github.io/atom.xml"/>
+    <subtitle>以行動，創造美好生活。MAKE IT COUNT.</subtitle>
+    <logo>https://fffrankhan.github.io/images/avatar.png</logo>
+    <icon>https://fffrankhan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 憨sir读史</rights>
+    <entry>
+        <title type="html"><![CDATA[班级早读标准1.0]]></title>
+        <id>https://fffrankhan.github.io/post/ban-ji-zao-du-biao-zhun-10/</id>
+        <link href="https://fffrankhan.github.io/post/ban-ji-zao-du-biao-zhun-10/">
+        </link>
+        <updated>2021-02-08T00:42:12.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>表扬准时到校者、专注早读者，消除迟到者、早读分心者的影响。</li>
+<li>7点25，所有人先把所有的凳子放下来，然后再开始早读。</li>
+<li>早读不允许用投影仪，所有人拿着自己的书读。没带的读其他学习资料。</li>
+<li>7点25，所有人站在桌子旁边，站成一条线，读书。手和书禁止放在桌子上，身体禁止倚靠墙或书桌。</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://fffrankhan.github.io/post/hello-gridea/</id>
+        <link href="https://fffrankhan.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
